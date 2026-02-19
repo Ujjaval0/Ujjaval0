@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ujjaval Bhardwaj
 
-🎯 Prompt Engineer | AI & Data Enthusiast | NLP Explorer  
+🎯 Data Analyst | AI & Data Enthusiast 
 🔍 Passionate about solving real-world problems using GenAI, LLMs, and data-driven insights.
 
 ---
