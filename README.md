@@ -1,48 +1,74 @@
-## 👋 Hi, I'm Ujjaval Bhardwaj
+<div align="center">
 
-🎯 Data Analyst | AI & Data Enthusiast 
-🔍 Passionate about solving real-world problems using GenAI, LLMs, and data-driven insights.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,0D1117,1a1a2e&height=180&section=header&text=Ujjaval%20Bhardwaj&fontSize=52&fontColor=00D4FF&fontAlignY=38&desc=Data%20Analyst%20%7C%20Turning%20Raw%20Data%20into%20Real%20Decisions&descSize=16&descColor=8B949E&descAlignY=60&animation=fadeIn" />
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Transforming+data+into+actionable+insights;From+raw+numbers+to+boardroom+decisions)](https://git.io/typing-svg)
 
-### 🚀 Skills & Tools
-
-#### 🧠 Core Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=chatbot&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineer-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-#### 📊 Data Tools & Libraries
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-#### 🧰 Software & IDEs
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgNjQgNjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTU0IDZIN2EyIDIgMCAwIDAtMiAydjQ4YzAgMS4xLjkgMiAyIDJoNjdjMS4xIDAgMi0uOSAyLTJWOGMwLTEuMS0uOS0yLTItMnpNMjUgNDFsNS01LjkgNS4yIDUuNEwyNyA0OEwyNSA0MXpNMjMgMzd2LTEzaDZ2MTNoLTZ6bTYgLTdoLTZ2LTJoNmEyIDIgMCAwIDEgMiAydjNoLTJ2LTNoLTZ2LTJoNnYyYTIgMiAwIDAgMS0yIDJoLTZ2LTJ2LTFoLTF2LTFoMnYxSDI2di0xaDF2MXYxaDF2MmgtdjJ6Ii8+PC9zdmc+)
-![Windsurf](https://img.shields.io/badge/Windsurf-1E90FF?style=for-the-badge&logo=windowsterminal&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Tera](https://img.shields.io/badge/Tera-A8B1C3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgNjQgNjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTMyIDZDMjAuNSAxNS41IDAgMzIgMCAzMnMzMiAxOC4xIDMyIDMzLjZDNTEuMiA1Ni43IDM3LjUgNTYgMzIgNTZzLTcuNS0uMy0xMS0xLjZDMzIuNyA1My4yIDQ0IDM4LjggNDQgMzJjMC05LTctMjMuNS0xMi0yNiIvPjwvc3ZnPg==)
+</div>
 
 ---
 
-### 🧠 Learning & Building
+## 🧭 About Me
 
-- Exploring **LangChain**, **GenAI Automations**, and **AI Agents**
-- Creating AI-based productivity tools with **LLM integrations**
-- Collaborating with teams to optimize AI workflows and prompts
+```python
+analyst = {
+    "name"     : "Ujjaval Bhardwaj",
+    "role"     : "Data Analyst",
+    "location" : "India 🇮🇳",
+    "focus"    : ["Business Intelligence", "AI-Augmented Analytics", "Data Storytelling"],
+    "motto"    : "Data without context is just noise — I turn noise into narrative."
+}
+```
 
 ---
 
-### 📬 Connect With Me
+## 🛠️ Skills & Tools
 
-📧 **Email** – [ujjavalbhardwaj6@gmail.com](mailto:ujjavalbhardwaj6@gmail.com)
+### 📊 Analytics & Visualization
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00D4FF)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00D4FF)
+![Power BI](https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoft-excel&logoColor=217346)
+
+### 🐍 Python Libraries
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00D4FF)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00D4FF)
+
+### 🤖 AI Tools I Use
+![Claude](https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=anthropic&logoColor=CC785C)
+![Gemini](https://img.shields.io/badge/Gemini-0D1117?style=for-the-badge&logo=google&logoColor=4285F4)
+
+### 🧰 Dev Tools
+![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Notion](https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-0D1117?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ---
 
-> “Crafting prompts like spells and automations like art — let's build the future with AI.”
+## 📊 GitHub Stats
 
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ujjavalbhardwaj&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=8B949E" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjavalbhardwaj&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=8B949E" />
+
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email%20Me-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ujjavalbhardwaj6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com)
+
+</div>
+
+<div align="center">
+<br>
+<i>Open to Data Analyst roles, freelance projects & collaborations.</i>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,1a1a2e,0D1117&height=100&section=footer" />
