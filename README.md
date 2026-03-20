@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Ujjaval Bhardwaj</h1>
 <p><b>Data Analyst</b> &nbsp;·&nbsp; India 🇮🇳</p>
-<p><i>Turning raw data into real decisions.</i></p>
+<p><i>Analyst by trade. AI-augmented by habit.</i></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&pause=1000&color=555555&center=true&vCenter=true&width=600&lines=SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Business+Intelligence+%26+Data+Storytelling;AI-Augmented+Analytics)](https://git.io/typing-svg)
 </div>
