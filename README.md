@@ -1,18 +1,22 @@
 <div align="center">
-
 <h1>Ujjaval Bhardwaj</h1>
 <p><b>Data Analyst</b> &nbsp;·&nbsp; India 🇮🇳</p>
 <p><i>Turning raw data into real decisions.</i></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&pause=1000&color=555555&center=true&vCenter=true&width=600&lines=SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Business+Intelligence+%26+Data+Storytelling;AI-Augmented+Analytics)](https://git.io/typing-svg)
-
 </div>
 
 ---
 
 ### About Me
 
-I'm a Data Analyst focused on turning messy data into clear, actionable insights. I work across the full analytics pipeline — from querying and cleaning data to building dashboards and communicating findings to stakeholders. I also leverage AI tools to streamline and enhance my analytical workflows.
+I'm a Data Analyst who works across the full analytics pipeline — querying and cleaning data,
+building dashboards, and translating findings into decisions stakeholders can act on.
+
+AI tools are part of how I work. I use Claude, ChatGPT, and Gemini to move faster through
+analysis, debug SQL/Python, and structure business problems into something solvable — and I've
+done hands-on LLM evaluation work, so I understand these tools well enough to know when to
+trust them and when to push back.
 
 ---
 
@@ -45,8 +49,8 @@ I'm a Data Analyst focused on turning messy data into clear, actionable insights
 ![Notion](https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
-
 ### Connect
 
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ujjavalbhardwaj6@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ujjaval-bhardwaj/)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ujjaval0)
