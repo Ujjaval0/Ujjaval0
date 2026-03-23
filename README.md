@@ -44,9 +44,12 @@ trust them and when to push back.
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-0097A7?style=for-the-badge&logo=codeium&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
 
 ---
 
