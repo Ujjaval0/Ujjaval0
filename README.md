@@ -1,22 +1,25 @@
 <div align="center">
 <h1>Ujjaval Bhardwaj</h1>
-<p><b>Data Analyst</b> &nbsp;·&nbsp; India 🇮🇳</p>
-<p><i>Analyst by trade. AI-augmented by habit.</i></p>
+<p><b>Data Analyst → Aspiring Product Manager</b> &nbsp;·&nbsp; India 🇮🇳</p>
+<p><i>I started with data. Now I want to decide what gets built with it.</i></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&pause=1000&color=555555&center=true&vCenter=true&width=600&lines=SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Business+Intelligence+%26+Data+Storytelling;AI-Augmented+Analytics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&pause=1000&color=555555&center=true&vCenter=true&width=600&lines=Data+Analyst+%E2%86%92+Product+Manager;SQL+%7C+Python+%7C+Power+BI+%7C+LLM+Evaluation;Building+toward+AI+Product+Management)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
 ### About Me
 
-I'm a Data Analyst who works across the full analytics pipeline — querying and cleaning data,
-building dashboards, and translating findings into decisions stakeholders can act on.
+I'm a Data Analyst transitioning into Product Management — and the two aren't as far apart as they seem.
 
-AI tools are part of how I work. I use Claude, ChatGPT, and Gemini to move faster through
-analysis, debug SQL/Python, and structure business problems into something solvable — and I've
-done hands-on LLM evaluation work, so I understand these tools well enough to know when to
-trust them and when to push back.
+I've spent time querying data, building dashboards, and translating findings into decisions. At Soul AI I did hands-on LLM evaluation — assessing GPT-4, Claude, and Gemini outputs across quality, reasoning, and safety dimensions at scale.
+
+That work taught me something: the gap between what AI products promise and what they actually deliver is a product problem, not a technical one.
+
+That's where I want to operate — understanding real user problems, making scope decisions, and shipping things worth building.
+
+Data gives me the foundation. PM is the direction.
 
 ---
 
@@ -34,6 +37,12 @@ trust them and when to push back.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+**Product & Research**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
+
 **AI Tools**
 
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -44,17 +53,13 @@ trust them and when to push back.
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Windsurf](https://img.shields.io/badge/Windsurf-0097A7?style=for-the-badge&logo=codeium&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
 
 ---
 
 ### Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ujjavalanalyst.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjavalbhardwaj6@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjaval-bhardwaj/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ujjaval0)
