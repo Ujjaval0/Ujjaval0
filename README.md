@@ -12,7 +12,7 @@
 ### About Me
 
 I'm Ujjaval 
-from Shamli, UP. BCA grad. LLM evaluator at Soul AI.
+BCA grad. LLM evaluator at Soul AI.
 I've always been the person who tries everything. New tool, new model: I want to know what problem it's actually solving and whether that problem is even real.
 That curiosity doesn't turn off.
 At Soul AI I spent months evaluating GPT-4, Claude, and Gemini outputs. Around the same time I was pulling apart LangChain, LangSmith, LangGraph just to understand how things work under the hood.
