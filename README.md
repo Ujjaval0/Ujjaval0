@@ -11,15 +11,12 @@
 
 ### About Me
 
-I'm a Data Analyst transitioning into Product Management — and the two aren't as far apart as they seem.
-
-I've spent time querying data, building dashboards, and translating findings into decisions. At Soul AI I did hands-on LLM evaluation — assessing GPT-4, Claude, and Gemini outputs across quality, reasoning, and safety dimensions at scale.
-
-That work taught me something: the gap between what AI products promise and what they actually deliver is a product problem, not a technical one.
-
-That's where I want to operate — understanding real user problems, making scope decisions, and shipping things worth building.
-
-Data gives me the foundation. PM is the direction.
+I'm Ujjaval 
+from Shamli, UP. BCA grad. LLM evaluator at Soul AI.
+I've always been the person who tries everything. New tool, new model: I want to know what problem it's actually solving and whether that problem is even real. That curiosity doesn't turn off.
+At Soul AI I spent months evaluating GPT-4, Claude, and Gemini outputs. Around the same time I was pulling apart LangChain, LangSmith, LangGraph just to understand how things work under the hood.
+I tried data analyst. Business analyst. Kept chasing the wrong title. Then it clicked PM is the only role where how I naturally think actually fits.
+No MBA. No shortcuts. Just genuine curiosity and one clear direction.
 
 ---
 
