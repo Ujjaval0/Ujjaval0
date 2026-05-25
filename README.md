@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Ujjaval Bhardwaj</h1>
-<p><b>Data Analyst → Aspiring Product Manager</b> &nbsp;·&nbsp; India 🇮🇳</p>
+<p><b>Data Analyst → Product Manager</b> &nbsp;·&nbsp; India 🇮🇳</p>
 <p><i>I started with data. Now I want to decide what gets built with it.</i></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&pause=1000&color=555555&center=true&vCenter=true&width=600&lines=Data+Analyst+%E2%86%92+Product+Manager;SQL+%7C+Python+%7C+Power+BI+%7C+LLM+Evaluation;Building+toward+AI+Product+Management)](https://git.io/typing-svg)
