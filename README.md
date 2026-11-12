@@ -1,16 +1,12 @@
 <h1 align="center">Ujjaval Bhardwaj</h1>
 
 <p align="center">
-  <b>AI Product & Strategy  |  LLM Evaluation & Data Analytics</b>  ·  India 🇮🇳
-</p>
-
-<p align="center">
-  <i>"I started with data. Now I want to decide what gets built with it."</i>
+  <b>AI Product &amp; Strategy</b> · LLM Evaluation · Data Analytics · India
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=58A6FF¢er=true&vCenter=true&width=600&lines=AI+Product+Management+and+Strategy;LLM+Evaluation+%7C+RAG+Systems+%7C+Product+Analytics;Turning+Model+Capabilities+into+User+Value" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Evaluating+LLM+outputs+across+GPT%2C+Claude+and+Gemini;Turning+model+capabilities+into+product+decisions;Building+MarginFlow%3A+LLM+extracts%2C+code+does+the+math" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,66 +14,47 @@
   <a href="https://ujjavalanalyst.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/ujjaval-bhardwaj/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ujjavalbhardwaj6@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Ujjaval0"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
----
-
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> About Me
-
-* **Background:** Technical Product Builder with a foundation in Data Analytics and hands-on LLM evaluation at **Soul AI**.
-* **Current Focus:** Evaluating **GPT-4, Claude, and Gemini** workflows, writing product specs, and dissecting **LangChain, LangGraph, and RAG** architectures under the hood.
-* **Core Advantage:** Bridging the gap between engineering and product—using **SQL & Python** to validate real user problems and **LLM Evals** to ensure AI features actually perform in production.
+<p align="center"><i>I started with data. Now I want to decide what gets built with it.</i></p>
 
 ---
 
-### 🛠️ Skills & Stack
+### About
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 AI & LLM Stack</h4>
-      <p>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-        <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-        <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00E676" alt="LangGraph" />
-        <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=FF6F00" alt="LangSmith" />
-        <img src="https://img.shields.io/badge/RAG_Systems-000000?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG Systems" />
-        <img src="https://img.shields.io/badge/LLM_Evals_&_Prompting-555555?style=for-the-badge" alt="LLM Evals" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧭 Product & Strategy</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-        <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro" />
-        <img src="https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white" alt="Webflow" />
-        <img src="https://img.shields.io/badge/PRDs_&_Roadmapping-2B2D42?style=for-the-badge" alt="PRDs & Roadmapping" />
-        <img src="https://img.shields.io/badge/User_Research-4A4E69?style=for-the-badge" alt="User Research" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📊 Product Analytics & Data</h4>
-      <p>
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-        <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💻 Dev & Prototyping</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
-      </p>
-    </td>
-  </tr>
-</table>
+- **Background:** Technical product builder with a data analytics foundation and about a year of hands-on LLM evaluation at **Soul AI**.
+- **Current focus:** Comparing GPT-4, Claude, and Gemini outputs, writing product specs, and studying how LangChain, LangGraph, and RAG systems are built.
+- **What I bring:** SQL and Python to check that a user problem is real, and LLM evals to check that an AI feature actually works.
+
+---
+
+### Selected work
+
+#### MarginFlow
+A profit ledger for multi-channel e-commerce sellers (Amazon India, Flipkart, Meesho, Shopify and others). It reconciles order value against the cash that actually reached the bank, then reports margin per SKU and per platform.
+
+- **Design rule:** the LLM only extracts data from documents. All ledger and P&L arithmetic is deterministic TypeScript, and AI-extracted invoices must pass an arithmetic check before they are accepted.
+- **Stack:** Next.js, TypeScript
+- **Repo:** [Ujjaval0/Margin-Flow](https://github.com/Ujjaval0/Margin-Flow)
+
+<!-- Uncomment each line once the file is public, and fix the path.
+- **PRD:** [Read the PRD](https://github.com/Ujjaval0/Margin-Flow/blob/main/docs/PRD.md)
+- **Evals:** [How I tested the extraction](https://github.com/Ujjaval0/Margin-Flow/blob/main/docs/evals.md)
+-->
+
+---
+
+### Stack
+
+| | |
+|---|---|
+| **AI and LLM** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-555555?style=flat-square) ![LLM Evals](https://img.shields.io/badge/LLM_Evals-555555?style=flat-square) |
+| **Product** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![PRDs](https://img.shields.io/badge/PRDs_and_Roadmaps-2B2D42?style=flat-square) |
+| **Data** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
+| **Build** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
+---
+
+<p align="center">
+  Open to AI product roles. Reach me by <a href="mailto:ujjavalbhardwaj6@gmail.com">email</a> or <a href="https://www.linkedin.com/in/ujjaval-bhardwaj/">LinkedIn</a>.
+</p>
