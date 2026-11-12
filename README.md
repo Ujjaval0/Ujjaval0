@@ -1,20 +1,31 @@
 <div align="center">
-<h1>Ujjaval Bhardwaj</h1>
-<p><b>AI Product & Strategy  |  LLM Evaluation & Data Analytics</b>  ·  India 🇮🇳</p>
-<p><i>"I started with data. Now I want to decide what gets built with it."</i></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&pause=1000&color=58A6FF¢er=true&vCenter=true&width=600&lines=AI+Product+Management+and+Strategy;LLM+Evaluation+%7C+RAG+Systems+%7C+Product+Analytics;Turning+Model+Capabilities+into+User+Value)](https://git.io/typing-svg)
+  <!-- Animated Wave Gradient Header Banner -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=180§ion=header&text=Ujjaval%20Bhardwaj&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Product%20%26%20Strategy%20%7C%20LLM%20Evaluation%20%26%20Data%20Analytics%20%C2%B7%20India&descAlignY=58&descSize=16" alt="Header Banner" />
 
-<br>
+  <p align="center">
+    <i>"I started with data. Now I want to decide what gets built with it."</i>
+  </p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ujjavalanalyst.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjaval-bhardwaj/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjavalbhardwaj6@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ujjaval0)
+  <!-- Centered Typing SVG (Wrapped in HTML <p align="center"> so it never shifts left) -->
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&color=58A6FF¢er=true&vCenter=true&width=600&lines=AI+Product+Management+and+Strategy;LLM+Evaluation+%7C+RAG+Systems+%7C+Product+Analytics;Turning+Model+Capabilities+into+User+Value" alt="Typing SVG" />
+    </a>
+  </p>
+
+  <!-- Centered Connect Badges -->
+  <p align="center">
+    <a href="https://ujjavalanalyst.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/ujjaval-bhardwaj/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:ujjavalbhardwaj6@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/Ujjaval0"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
 
 </div>
 
----
+<!-- Animated Glowing Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### ⚡ About Me
 
@@ -22,7 +33,8 @@
 * **Current Focus:** Evaluating **GPT-4, Claude, and Gemini** workflows, writing product specs, and dissecting **LangChain, LangGraph, and RAG** architectures under the hood.
 * **Core Advantage:** Bridging the gap between engineering and product—using **SQL & Python** to validate real user problems and **LLM Evals** to ensure AI features actually perform in production.
 
----
+<!-- Animated Glowing Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🛠️ Skills & Stack
 
@@ -74,3 +86,6 @@
     </td>
   </tr>
 </table>
+
+<!-- Bottom Animated Wave Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100§ion=footer" alt="Footer Wave" />
