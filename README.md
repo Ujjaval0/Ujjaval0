@@ -1,35 +1,26 @@
 <div align="center">
-  <h1>Ujjaval Bhardwaj</h1>
-  <p><b>AI Product & Strategy  |  LLM Evaluation & Data Analytics</b>  ·  India 🇮🇳</p>
-  <p><i>"I started with data. Now I want to decide what gets built with it."</i></p>
+<h1>Ujjaval Bhardwaj</h1>
+<p><b>AI Product & Strategy  |  LLM Evaluation & Data Analytics</b>  ·  India 🇮🇳</p>
+<p><i>"I started with data. Now I want to decide what gets built with it."</i></p>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&color=4285F4¢er=true&vCenter=true&width=650&lines=AI+Product+Management+%26+Strategy;LLM+Evaluation+%7C+RAG+Systems+%7C+Product+Analytics;Turning+Model+Capabilities+into+User+Value" alt="Typing SVG" />
-  </a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&pause=1000&color=58A6FF¢er=true&vCenter=true&width=600&lines=AI+Product+Management+and+Strategy;LLM+Evaluation+%7C+RAG+Systems+%7C+Product+Analytics;Turning+Model+Capabilities+into+User+Value)](https://git.io/typing-svg)
 
-  <br><br>
+<br>
 
-  <a href="https://ujjavalanalyst.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/ujjaval-bhardwaj/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ujjavalbhardwaj6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Ujjaval0">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ujjavalanalyst.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjaval-bhardwaj/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjavalbhardwaj6@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ujjaval0)
+
 </div>
 
 ---
 
 ### ⚡ About Me
 
-* **The Hook:** Technical Product Builder with a background in Data Analytics and hands-on LLM evaluation at **Soul AI**.
-* **Current Focus:** Evaluating **GPT-4, Claude, and Gemini** workflows, designing product specs, and dissecting **LangChain, LangGraph, and RAG** architectures under the hood.
-* **Core Advantage:** I bridge the gap between engineering and product—using **SQL/Python** to validate real user problems and **LLM Evals** to ensure AI features actually perform in production.
+* **Background:** Technical Product Builder with a foundation in Data Analytics and hands-on LLM evaluation at **Soul AI**.
+* **Current Focus:** Evaluating **GPT-4, Claude, and Gemini** workflows, writing product specs, and dissecting **LangChain, LangGraph, and RAG** architectures under the hood.
+* **Core Advantage:** Bridging the gap between engineering and product—using **SQL & Python** to validate real user problems and **LLM Evals** to ensure AI features actually perform in production.
 
 ---
 
